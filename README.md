@@ -1,4 +1,5 @@
 ## JArkanoid
+It fork is for test Phoenix AWR with JavaFX
 
 [![Github all releases](https://img.shields.io/github/downloads/HanSolo/jarkanoid/total.svg)](https://GitHub.com/HanSolo/jarkanoid/releases/)
 
